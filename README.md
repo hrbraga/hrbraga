@@ -1,4 +1,10 @@
-## Bem-vindo(a) ao perfil do Hugo Roberto 😁
+## 🚀 Sobre mim
+
+Sou Hugo Roberto, desenvolvedor front-end em formação, com foco em HTML, CSS, JavaScript, React e NodeJS. Apaixonado por criar interfaces funcionais e aprender novas tecnologias, busco sempre entregar projetos de alta qualidade.
+
+Tenho conhecimentos em Git e GitHub, o que me ajuda a manter um fluxo de trabalho organizado e colaborativo. Estou constantemente aprimorando minhas habilidades para me manter atualizado no mercado. 😁
+
+Além do desenvolvimento, sou entusiasta do ciclismo, uma atividade que reflete meu compromisso com disciplina e foco. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. 🚴‍♀️💜💻
 
  <div>
    <a href="https://github.com/hrbraga">
@@ -20,5 +26,5 @@
   <a href="https://instagram.com/hrbraga87" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/hrbraga87" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:hugbraga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hrbraga87" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/hrbraga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
